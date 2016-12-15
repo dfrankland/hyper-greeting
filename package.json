@@ -1,7 +1,7 @@
 {
   "name": "hyper-greeting",
   "description": "Add a nice greeting to each new session created in Hyper.",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/dfrankland/hyper-greeting.git"
