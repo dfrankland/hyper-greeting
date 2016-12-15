@@ -1,0 +1,30 @@
+{
+  "name": "hyper-greeting",
+  "description": "Add a nice greeting to each new session created in Hyper.",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dfrankland/hyper-greeting.git"
+  },
+  "keywords": [
+    "hyper",
+    "hyperterm",
+    "greeting",
+    "cowsay",
+    "pokemonsay",
+    "fortune"
+  ],
+  "author": "Dylan Frankland <dylan@frankland.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dfrankland/hyper-greeting/issues"
+  },
+  "homepage": "https://github.com/dfrankland/hyper-greeting#readme",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "shell-env": "^0.3.0"
+  }
+}
